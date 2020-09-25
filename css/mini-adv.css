@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+#brother {
+  display:block;
+  width:800px;
+  margin:0 85px 20px;
+  -moz-user-select:none;
+  -webkit-user-select:none;
+}
+
+#sec-scene {
+  position:relative;
+  width:800px;
+  min-height:600px;
+}
+img#scene {
+  width:100%;
+  height:auto;
+}
+#sec-messageblock {
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+#sec-message {
+  position:relative;
+}
+p#message {
+  height:6em;
+  width:734px;
+  padding:15px;
+  margin-left:12px;
+  line-height:1.5;
+  border:solid 6px #fff;
+  border-radius:25px;
+  font-size:28px;
+  color:#fff;
+  background:rgb(87,94,245); -webkit-background:rgba(87,94,245);
+  background:rgba(87,94,245,0.8); -webkit-background:rgba(87,94,245,0.8);
+}
+#socialarea{margin:0 85px 20px}
+#socialarea ul.social{float:right; margin:0; padding:0; list-style:none; text-align:right;}
+#socialarea ul.social li{display:inline; margin-left:10px;}
+#socialarea ul.social li img{vertical-align:top;}
