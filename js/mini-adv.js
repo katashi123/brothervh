@@ -19,7 +19,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 3
     "src": "img/koibro_bg003.jpg",
     "text": "気兼ねなく　声をかけてくれるとうれしいぜ。/みんな、今日からよろしくな！」",
@@ -30,7 +30,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 4
     "src": "img/koibro_bg003_2.jpg",
     "text": "私/「あれ、この人どこかで見た事ある……？/　テレビCMだっけ……？　まさかね(笑)」",
@@ -41,7 +41,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 5
     "src": "img/koibro_bg003.jpg",
     "text": "先生/「それじゃあ、ブラ男くんの席はあそこだ」",
@@ -52,7 +52,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 6
     "src": "img/koibro_bg004.jpg",
     "text": "そして偶然　空席になっていた私の隣に/ブラ男くんがやってくることになった。",
@@ -67,7 +67,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 8
     "src": "img/koibro_bg004.jpg",
     "text": "はじめは　ちょっと色白の男の子としか/思っていなかったのだけど、/すごいスピードを持ってるってことが",
@@ -106,7 +106,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 16
     "src": "img/koibro_bg009.jpg",
     "text": "ブラ男/「………ん？」",
@@ -117,7 +117,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 17
     "src": "img/koibro_bg009.jpg",
     "text": "私/「バカ！顔料系インク！カートリッジ部分まで/　見えてるじゃない！！！！」",
@@ -128,7 +128,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 18
     "src": "img/koibro_bg010.jpg",
     "text": "ブラ男/「しらねーよ！お前が勝手に/　俺の着替えを　のぞいてきたんだろ！」",
@@ -139,7 +139,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 19
     "src": "img/koibro_bg011.jpg",
     "text": "ブラ男/「俺の裸を見たいのかもしれないけど、/　インクが乾燥するから",
@@ -150,7 +150,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 20
     "src": "img/koibro_bg011.jpg",
     "text": " 一旦ドア、締めてくれねぇかな？」",
@@ -161,7 +161,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 21
     "src": "img/koibro_bg007_2.jpg",
     "text": " 私/「もう、、、最っ低！！！！」/　思わず走り出す私。",
@@ -184,7 +184,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 25
     "src": "img/koibro_bg014.jpg",
     "text": "私/（え…うそ………………/　ちょっとかっこいいかも……）",
@@ -195,7 +195,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 26
     "src": "img/koibro_bg014.jpg",
     "text": "ブラ男くんは見かけに似合わず運動神経抜群。/見る間に得点を決めて一躍ヒーローに。/他の女子もみんなブラ男くんを見てる…",
@@ -206,7 +206,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 27
     "src": "img/koibro_bg016.jpg",
     "text": "ブラ男/「お前、真剣な目つきで見てたけど/　サッカーとか　興味あるんだ？",
@@ -217,7 +217,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 28
     "src": "img/koibro_bg016.jpg",
     "text": "良かったら日曜、フットサルやるから/見にこねぇ？",
@@ -228,7 +228,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 29
     "src": "img/koibro_bg016.jpg",
     "text": "・え、行く行く！//・何？見てなんかないわよ！",
@@ -239,7 +239,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 30
     "src": "img/koibro_bg016.jpg",
     "text": "ブラ男/「バカ、見てたくせに。俺も試合中/　お前の事を見てたからわかるんだよ」",
@@ -250,7 +250,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 31
     "src": "img/koibro_bg016.jpg",
     "text": "私/「…え…？！」",
@@ -261,7 +261,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 32
     "src": "img/koibro_bg016.jpg",
     "text": "ブラ男/「いいから見に来いよ。おもしろいぜ。」",
@@ -272,7 +272,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 33
     "src": "img/koibro_bg017.jpg",
     "text": "ブラ男/「詳細はこれに書いてあるからな」",
@@ -283,7 +283,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 34
     "src": "img/koibro_bg017.jpg",
     "text": "ウィイイーーン/そういってブラ男は A4の用紙を吐きだした。/顔料系インクのにおいにハッとする私。",
@@ -294,7 +294,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 35
     "src": "img/koibro_bg017.jpg",
     "text": "私/（もしかして、私、デートに誘われてる…？/　……いや、考えすぎよね。バカな私！）",
@@ -305,7 +305,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 36
     "src": "img/koibro_bg016.jpg",
     "text": "私/「あ、ありがとう。また日曜日にね！」",
@@ -316,7 +316,7 @@ var scenario = [
       "width": "500px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 37
     "src": "img/koibro_bg004.jpg",
     "text": "周囲の女子の視線もあって、/逃げるように教室に戻って来た私。",
@@ -359,7 +359,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 46
     "src": "img/koibro_bg023.jpg",
     "text": "・うん、腹が減っては戦はできないでしょ。//・バカ、そんなんじゃないわよ！",
@@ -370,7 +370,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 47
     "src": "img/koibro_bg023.jpg",
     "text": "ブラ男/「またまた！だってホラ、なんか手紙みたいな/　紙がついてるじゃん！どれどれ・・・」",
@@ -381,7 +381,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 48
     "src": "img/koibro_bg023.jpg",
     "text": "ブラ男/「ありがとう！お、しかも手紙つきだ！」",
@@ -392,7 +392,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 49
     "src": "img/koibro_bg023.jpg",
     "text": "ブラ男/「ブラ男くん、試合頑張ってね……か。/　手紙までありがとな！」",
@@ -403,7 +403,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 50
     "src": "img/koibro_bg022.jpg",
     "text": "ブラ男/「俺、絶対に点を決めて勝つよ！」",
@@ -414,7 +414,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 51
     "src": "img/koibro_bg012.jpg",
     "text": "そして試合開始。/相手は市内一の強豪チームで、一進一退の攻防/引き分けに終わると　思われたその時……",
@@ -429,7 +429,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 53
     "src": "img/koibro_bg025.jpg",
     "text": '「ゴーーーール！！！！！！！！/　チーム"ブラ男"ロスタイムに得点！/　見事勝利を飾りました！！！」',
@@ -440,7 +440,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 54
     "src": "img/koibro_bg026.jpg",
     "text": "私/「わー！ボールを持って走る/　ブラ男くんもかっこいい………ん？",
@@ -451,7 +451,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 55
     "src": "img/koibro_bg026.jpg",
     "text": "　あれ？いまブラ男くんの給紙トレイが/　ガタついていたような………………/　……気のせいかな？」",
@@ -462,7 +462,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 56
     "src": "img/koibro_bg027.jpg",
     "text": "ブラ男/「ふぅ、ギリギリで勝てて良かったぜ。/　これも俺の実力の　なせる技だな！」",
@@ -473,7 +473,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 57
     "src": "img/koibro_bg027.jpg",
     "text": "私/「勝利おめでとう。でもそれより、/　給紙トレイ大丈夫？",
@@ -484,7 +484,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 58
     "src": "img/koibro_bg027.jpg",
     "text": "　ちょっとだけ/　ガタついたように　見えたけど……」",
@@ -495,7 +495,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 59
     "src": "img/koibro_bg028.jpg",
     "text": "「え？給紙トレイ？/　この通り　ピンピンしてるぜ！」",
@@ -506,7 +506,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE60
     "src": "img/koibro_bg028.jpg",
     "text": "私/「いや、そんなことないわ。/　確かにさっきは根元が……」",
@@ -517,7 +517,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE61
     "src": "img/koibro_bg029.jpg",
     "text": "ブラ男/「なんだよ！勝手に給紙トレイを/　開けようとするな！",
@@ -528,7 +528,7 @@ var scenario = [
       "width": "800px",
       "height": "370px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE62
     "src": "img/koibro_bg028.jpg",
     "text": "　なんでおめーはそうやって、/　いちいち/　俺のことを……",
@@ -539,7 +539,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE63
     "src": "img/koibro_bg028.jpg",
     "text": "・好きだからに決まってるでしょ！//・な、何でもないわよ！",
@@ -550,7 +550,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE64
     "src": "img/koibro_bg027.jpg",
     "text": "ブラ男/「うるせー！何か隠してるだろ！/　俺にはわかるぞ！！",
@@ -561,7 +561,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE65
     "src": "img/koibro_bg028.jpg",
     "text": "「え？………………好き……？/　……この俺のことを……？？！」",
@@ -572,7 +572,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE66
     "src": "img/koibro_bg031.jpg",
     "text": "ブラ男のフロントパネルがスッと閉じた。//そして沈黙。",
@@ -583,7 +583,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE67
     "src": "img/koibro_bg031.jpg",
     "text": "ブラ男/「ば…バカ野郎…俺は…………/　俺は………………………",
@@ -594,7 +594,7 @@ var scenario = [
       "width": "420px",
       "height": "320px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE68
     "src": "img/koibro_bg032.jpg",
     "text": "………………………………/………………/brother なんだよ！！！！！！」",
@@ -605,7 +605,7 @@ var scenario = [
       "width": "800px",
       "height": "370px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE69
     "src": "img/koibro_bg033_2.jpg",
     "text": "一目散にかけだすブラ男。//呆然（ぼうぜん）とする私。",
@@ -684,7 +684,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE87
     "src": "img/koibro_bg037.jpg",
     "text": "そして、「brotherなんだよ」と言って/走りさるブラ男くんの姿を思い出す。",
@@ -695,7 +695,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE88
     "src": "img/koibro_bg037.jpg",
     "text": "あんな悲しい後ろ姿が最後なんて、/私は絶対に嫌！！",
@@ -706,7 +706,7 @@ var scenario = [
       "width": "420px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE89
     "src": "img/koibro_bg035.jpg",
     "text": "・病院に向かう//・そろそろ寝る",
@@ -970,7 +970,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE120
     "src": "img/koibro_bg045.jpg",
     "text": "私/「いいえ、私は……」そう言いかけた時、/　眠るブラ男くんの給紙トレイが見えた。",
@@ -981,7 +981,7 @@ var scenario = [
       "width": "800px",
       "height": "370px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE121
     "src": "img/koibro_bg045.jpg",
     "text": "あの時　私が強く修理をすすめていれば/こんな事にはならなかったのかもしれない。",	
@@ -992,7 +992,7 @@ var scenario = [
       "width": "800px",
       "height": "370px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE122
     "src": "img/koibro_bg045.jpg",
     "text": "私のせいでブラ男くんがこんなことに/なったのなら、私にも責任はある…！",
@@ -1036,7 +1036,7 @@ var scenario = [
       "width": "800px",
       "height": "370px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE126
     "src": "img/koibro_bg046_2.jpg",
     "text": "恐る恐る、ブラ男くんの電源に手を伸ばす。/そして、そっとそこに触れてみた。",
@@ -1047,7 +1047,7 @@ var scenario = [
       "width": "800px",
       "height": "370px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE127
     "src": "img/koibro_bg047.jpg",
     "text": "……………………………………………………/………………………………/……………",
@@ -1058,7 +1058,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE128
     "src": "img/koibro_bg048.jpg",
     "text": "ブラ男/「……ん……ここは…………/　俺はいったい何を……？」",
@@ -1069,7 +1069,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE129
     "src": "img/koibro_bg048.jpg",
     "text": "「ブラ男くん！」/「ブラ男！」",
@@ -1080,7 +1080,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE130
     "src": "img/koibro_bg048.jpg",
     "text": "私/「ブラ男のバカ！/　私、すごく心配したんだから！」",
@@ -1091,7 +1091,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE131
     "src": "img/koibro_bg049.jpg",
     "text": "ブラ男/「すまなかったな。お前の教えてくれた通り/　俺は給紙トレイを傷めていたらしい",
@@ -1102,7 +1102,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE132
     "src": "img/koibro_bg049.jpg",
     "text": "あの時素直にお前の言うことを聞いていれば/こんなことにはならなかったかもしれない/けれど……",
@@ -1113,7 +1113,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE133
     "src": "img/koibro_bg050.jpg",
     "text": "俺はbrother製の工業製品。/それをお前に知られるのが恥ずかしくて/たまらなかったんだ…！許してくれ！",
@@ -1124,7 +1124,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE134
     "src": "img/koibro_bg048.jpg",
     "text": "私/「そんなの全然関係ない！/　私はブラ男がbrother製の複合機でも",
@@ -1135,7 +1135,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE135
     "src": "img/koibro_bg048.jpg",
     "text": "前とちっとも変わらず/大切に思っているよ！」",
@@ -1146,7 +1146,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE136
     "src": "img/koibro_bg049.jpg",
     "text": "ブラ男/「……brotherの俺でもいいのか……？",
@@ -1157,7 +1157,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE137
     "src": "img/koibro_bg049.jpg",
     "text": "私/「当たり前でしょ！プリントは速いし、/　タッチパネルはついているし、",
@@ -1168,7 +1168,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE138
     "src": "img/koibro_bg050.jpg",
     "text": "経済的な独立カードリッジだし、/最小インクサイズは1.5plだし、/年末商戦に向けてCMもやっているしね！",
@@ -1179,7 +1179,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE139
     "src": "img/koibro_bg048.jpg",
     "text": "それより、無茶をした罰として/明日から私とつきあいなさい！/……いいわね？",
@@ -1190,7 +1190,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE140
     "src": "img/koibro_bg049.jpg",
     "text": "ブラ男/「……ありがとう……/　……俺、高機能な複合機で良かったんだ……」",
@@ -1201,7 +1201,7 @@ var scenario = [
       "width": "490px",
       "height": "260px"
     },
-    "linkUrl": "http://nttxstore.jp/_II_QZX0007700"
+    "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE141
     "src": "img/koibro_bg051.jpg",
     "text": "病院を出た帰り道、/雨は今年初めての雪に変わっていた。/けれど、冷たく重い感じは無い。",
