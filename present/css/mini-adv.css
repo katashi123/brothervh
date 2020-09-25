@@ -1,44 +1,33 @@
 @charset "utf-8";
 
-#brother {
-  display:block;
-  width:800px;
-  margin:0 85px 20px;
-  -moz-user-select:none;
-  -webkit-user-select:none;
-}
+#brother{width:913px; margin:0 auto; background:url(https://ima.xgoo.jp/brother/img/brother_bg.gif) 0 0 repeat-y;}
+#brother .campbtm{padding:0 0 53px; background:url(https://ima.xgoo.jp/brother/img/brother_btm.gif) 0 bottom no-repeat;}
 
-#sec-scene {
-  position:relative;
-  width:800px;
-  min-height:600px;
-}
-img#scene {
-  width:100%;
-  height:auto;
-}
-#sec-messageblock {
-  position:absolute;
-  bottom:0;
-  left:0;
-}
-#sec-message {
-  position:relative;
-}
-p#message {
-  height:6em;
-  width:734px;
-  padding:15px;
-  margin-left:12px;
-  line-height:1.5;
-  border:solid 6px #fff;
-  border-radius:25px;
-  font-size:28px;
-  color:#fff;
-  background:rgb(87,94,245); -webkit-background:rgba(87,94,245);
-  background:rgba(87,94,245,0.8); -webkit-background:rgba(87,94,245,0.8);
-}
-#socialarea{margin:0 85px 20px}
-#socialarea ul.social{float:right; margin:0; padding:0; list-style:none; text-align:right;}
-#socialarea ul.social li{display:inline; margin-left:10px;}
-#socialarea ul.social li img{vertical-align:top;}
+#brother .h1area{margin:0 0 30px; padding:0; background:url(https://ima.xgoo.jp/brother/img/h1_bg.jpg) 0 0 no-repeat; zoom:1;}
+#brother .h1area h1{margin:0; padding:0 62px 0 60px;}
+#brother .h1area .period{text-align:center; padding:10px 0 0;}
+
+#brother ul.present{margin:0 0 0 45px; padding:0; list-style:none;}
+#brother ul.present li{float:left; height:302px; line-height:1;}
+#brother ul.present li.item1{margin:0 32px 0 0;}
+
+#brother .socialarea{margin:0 58px 0 71px;}
+#brother .socialarea ul.social{float:right; margin:0; padding:0; list-style:none; text-align:right;}
+#brother .socialarea ul.social li{display:inline; margin-left:10px;}
+#brother .socialarea ul.social li img{vertical-align:top;}
+
+#brother .oubo{}
+#brother .post{text-align:center; margin:0 0 30px;}
+#brother .oubo ul.cautions{float:left; margin:0; padding:0 20px 0 128px; list-style:none;}
+
+#brother ul.present:after{display:block;visibility:hidden;clear:both;height:0;content:".";}
+/*\*/ #brother ul.present{*height:1%;}/**/
+/*\*//*/ #brother ul.present{overflow:hidden;}/**/
+
+#brother-fin{width:913px; margin:0 auto; background:none;}
+#brother-fin .h1area{margin:0 0 30px; padding:0; background:url(https://ima.xgoo.jp/brother/img/h1_bg_min.jpg) 0 0 no-repeat; zoom:1;}
+#brother-fin .h1area h1{margin:0; padding:0 62px 0 60px;}
+#brother-fin .h1area .period{text-align:center; padding:10px 0 0;}
+#brother-fin h2{text-align:center; margin:0 0 8px;}
+#brother-fin p.fintxt{text-align:center; margin:0 0 55px;}
+#brother-fin .banner{text-align:center;}
