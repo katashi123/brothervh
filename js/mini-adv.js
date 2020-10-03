@@ -3,15 +3,15 @@
 var scenario = [
   {    // SCENE 0
     "src": "img/koibro_bg001.jpg",
-    "text": "あれは　ある年の12月、、、/いつもと同じ　高校生活をすごしていた私の前に/アイツは突然訪れた・・・・・・",
+    "text": "Đó là vào tháng 12 năm đó.../Anh ấy bất ngờ xuất hiện trong đời tôi/khi tôi còn là học sinh cấp 3 bình thường",
     "next": 1
   }, { // SCENE 1
     "src": "img/koibro_bg002.jpg",
-    "text": "先生/「今日は朝礼の前に　転校生を紹介する。/　新しく引っ越してきたブラ ブラ男くんだ」",
+    "text": "Giáo Viên/「Hôm nay có 1 bạn mới chuyển đến./　Đó là Burao mới chuyện tới hôm nay」",
     "next": 2
   }, { // SCENE 2
     "src": "img/koibro_bg003.jpg",
-    "text": "ブラ男/「はじめまして。俺の名前は ブラ ブラ男 です。/　趣味はフットサル。好きなインクはマゼンタ。",
+    "text": "Burao/「Hế lô các bạn./　Tớ tên là Burao",
     "next": 3,
     "link": {
       "top": "108px",
@@ -22,7 +22,7 @@ var scenario = [
     "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 3
     "src": "img/koibro_bg003.jpg",
-    "text": "気兼ねなく　声をかけてくれるとうれしいぜ。/みんな、今日からよろしくな！」",
+    "text": "Tớ rất vui khi không ngại kết bạn với các bạn/Cảm ơn các bạn về hôm nay!」",
     "next": 4,
     "link": {
       "top": "108px",
@@ -33,7 +33,7 @@ var scenario = [
     "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 4
     "src": "img/koibro_bg003_2.jpg",
-    "text": "私/「あれ、この人どこかで見た事ある……？/　テレビCMだっけ……？　まさかね(笑)」",
+    "text": "Tôi/「Cậu từng thấy người này ở đâu đó chưa...?/　Đó là nhân vật nổi tiếng trên TV.../　chắc không đâu(cười)」",
     "next": 5,
     "link": {
       "top": "108px",
