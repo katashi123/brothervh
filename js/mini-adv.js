@@ -33,7 +33,7 @@ var scenario = [
     "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 4
     "src": "img/koibro_bg003_2.jpg",
-    "text": "Tôi/「Cậu từng thấy người này ở đâu đó chưa...?/　Đó là nhân vật nổi tiếng trên TV.../　chắc không đâu(cười)」",
+    "text": "Tôi/「Cậu từng thấy người này ở đâu đó chưa...?/Không lẽ là Idol TV... chắc không đâu(cười)」",
     "next": 5,
     "link": {
       "top": "108px",
