@@ -3,7 +3,7 @@
 var scenario = [
   {    // SCENE 0
     "src": "img/koibro_bg001.jpg",
-    "text": "Đó là vào tháng 12 năm đó.../Anh ấy bất ngờ xuất hiện trong đời tôi/khi tôi còn là học sinh cấp 3 bình thường",
+    "text": "Đó là vào tháng 12 năm ấy.../Anh ấy bất ngờ xuất hiện trong đời tôi/khi tôi còn là học sinh cấp 3 bình thường",
     "next": 1
   }, { // SCENE 1
     "src": "img/koibro_bg002.jpg",
@@ -22,7 +22,7 @@ var scenario = [
     "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 3
     "src": "img/koibro_bg003.jpg",
-    "text": "Tớ rất vui khi không ngại kết bạn với các bạn/Cảm ơn các bạn về hôm nay!」",
+    "text": "Tớ rất vui khi được kết bạn với các bạn/Cảm ơn các bạn về hôm nay!」",
     "next": 4,
     "link": {
       "top": "108px",
@@ -33,7 +33,7 @@ var scenario = [
     "linkUrl": "https://shorten.asia/5tMF3q5K"
   }, { // SCENE 4
     "src": "img/koibro_bg003_2.jpg",
-    "text": "Tôi/「Cậu từng thấy người này ở đâu đó chưa...?/Không lẽ là Idol TV... chắc không đâu(cười)」",
+    "text": "Tôi/「Mình từng thấy người này ở đâu đó chưa...?/Không lẽ là Idol TV... chắc không đâu(cười)」",
     "next": 5,
     "link": {
       "top": "108px",
